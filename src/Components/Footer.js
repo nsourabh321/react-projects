@@ -6,7 +6,6 @@ const Footer = () => {
     position:"relative",
     height: "5vh",
     width : "100vw",
-  
   };
   return (
 
